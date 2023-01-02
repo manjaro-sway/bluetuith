@@ -1,5 +1,5 @@
 # Maintainer: darkhz <kmachanwenw at gmail dot com>
-pkgname=bluetuith-bin
+pkgname=bluetuith
 _pkgname=bluetuith
 pkgver=0.1.3
 pkgrel=1
